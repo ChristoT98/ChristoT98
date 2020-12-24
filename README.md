@@ -52,6 +52,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/christo-tissera-6a20b31b7"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christo%20Tissera-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/ChristoT987"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Christo%20Tissera-blue?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/ChristoT98"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Christo%20Tissera-blue?style=flat-square&logo=twitter"></a>
 <a href="https://stackoverflow.com/users/14253183/christo-tissera"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack overflow-Christo%20Tissera-blue?style=flat-square&logo=stackoverflow&logoColor=white"></a>
 </p>
